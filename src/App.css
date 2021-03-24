@@ -13,6 +13,18 @@
   }
 }
 
+.content {
+  flex: 1 0 auto;
+  padding: 0px;
+}
+
+.footer {
+  flex-shrink: 0;
+  text-align: center;
+  background-color: tomato;
+  color: white;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
